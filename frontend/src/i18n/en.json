@@ -1,0 +1,98 @@
+{
+  "brand": "PharmaExpress",
+  "nav": {
+    "medicines": "Medicines",
+    "catalog": "Catalog",
+    "delivery": "Delivery",
+    "preorder": "Pre-order",
+    "resale": "Resale",
+    "about": "About Us",
+    "symptomChecker": "Symptom checker"
+  },
+  "hero": {
+    "title1": "Essential medicines —",
+    "title2": "delivered fast",
+    "subtitle": "Order medicines online and get fast delivery in as little as 30 minutes.",
+    "cta1": "Find Medicines",
+    "cta2": "Upload Prescription"
+  },
+  "badges": {
+    "delivery": "Delivery from 30 min",
+    "verified": "Verified medicines",
+    "quality": "Quality guarantee",
+    "support": "24/7 Support"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of stock",
+    "preorder": "Place pre-order",
+    "tablets": "tablets",
+    "capsules": "capsules",
+    "chooseVariant": "Choose packaging",
+    "prescriptionRequired": "Prescription required",
+    "rare": "Rare"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "continue": "Continue shopping"
+  },
+  "auth": {
+    "login": "Log In",
+    "signup": "Sign Up",
+    "fullName": "Full name",
+    "phone": "Phone number",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "createAccount": "Create account",
+    "welcome": "Welcome back",
+    "loginSubtitle": "Log in to continue shopping",
+    "signupSubtitle": "Sign up in 30 seconds",
+    "logout": "Log out"
+  },
+  "resale": {
+    "title": "Resale marketplace",
+    "subtitle": "Bought an expensive medicine you no longer need? Resell it to other users — the pharmacy only takes a small commission.",
+    "sell": "List for resale",
+    "commission": "Pharmacy commission",
+    "yourPayout": "You'll receive",
+    "buy": "Buy listing",
+    "seller": "Seller",
+    "maxMarkup": "Max markup"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "categories": "Categories",
+    "company": "Company",
+    "contacts": "Contacts"
+  },
+  "search": {
+    "placeholder": "Search medicine or symptom..."
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "products": "Products",
+    "sales": "Sales",
+    "orders": "Orders",
+    "resaleModeration": "Resale moderation",
+    "addProduct": "Add product",
+    "approve": "Approve",
+    "reject": "Reject"
+  },
+  "symptomChecker": {
+    "title": "Smart medicine finder",
+    "subtitle": "Select what's bothering you — we'll suggest matching over-the-counter medicines from the catalog. This is not a diagnosis and does not replace seeing a doctor.",
+    "select": "Select your symptoms",
+    "analyze": "Find medicines",
+    "thinking": "Analyzing symptoms...",
+    "resultsTitle": "This may help",
+    "disclaimer": "⚠️ This is informational only, not a medical diagnosis. See a doctor for serious or persistent symptoms.",
+    "seeDoctor": "These symptoms may require a prescription or an in-person doctor visit — please don’t self-medicate.",
+    "reset": "Start over"
+  }
+}

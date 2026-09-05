@@ -1,0 +1,98 @@
+{
+  "brand": "PharmaExpress",
+  "nav": {
+    "medicines": "Dori-darmonlar",
+    "catalog": "Katalog",
+    "delivery": "Yetkazib berish",
+    "preorder": "Oldindan buyurtma",
+    "resale": "Qayta sotish",
+    "about": "Biz haqimizda",
+    "symptomChecker": "Alomatlar bo‘yicha tanlash"
+  },
+  "hero": {
+    "title1": "Kerakli dorilar —",
+    "title2": "tez yetkazib beriladi",
+    "subtitle": "Dorilarni onlayn buyurtma qiling va 30 daqiqadan boshlab tez yetkazib oling.",
+    "cta1": "Dori qidirish",
+    "cta2": "Retsept yuklash"
+  },
+  "badges": {
+    "delivery": "30 daqiqadan boshlab tez yetkazib berish",
+    "verified": "Sertifikatlangan dorilar",
+    "quality": "Sifat kafolati",
+    "support": "24/7 qo'llab-quvvatlash"
+  },
+  "product": {
+    "addToCart": "Savatga qo'shish",
+    "outOfStock": "Mavjud emas",
+    "preorder": "Oldindan buyurtma berish",
+    "tablets": "tabletka",
+    "capsules": "kapsula",
+    "chooseVariant": "Qadoq turini tanlang",
+    "prescriptionRequired": "Retsept talab qilinadi",
+    "rare": "Tanqis"
+  },
+  "cart": {
+    "title": "Savat",
+    "empty": "Savatingiz bo'sh",
+    "total": "Jami",
+    "checkout": "Buyurtma berish",
+    "remove": "O'chirish",
+    "continue": "Xaridni davom ettirish"
+  },
+  "auth": {
+    "login": "Kirish",
+    "signup": "Ro'yxatdan o'tish",
+    "fullName": "To'liq ism",
+    "phone": "Telefon raqami",
+    "password": "Parol",
+    "confirmPassword": "Parolni tasdiqlang",
+    "noAccount": "Akkountingiz yo'qmi?",
+    "haveAccount": "Akkountingiz bormi?",
+    "createAccount": "Akkount yaratish",
+    "welcome": "Xush kelibsiz",
+    "loginSubtitle": "Xaridni davom ettirish uchun kiring",
+    "signupSubtitle": "30 soniyada ro'yxatdan o'ting",
+    "logout": "Chiqish"
+  },
+  "resale": {
+    "title": "Qayta sotish bozori",
+    "subtitle": "Qimmat dori sotib oldingizmi, lekin kerak bo'lmadimi? Uni boshqa foydalanuvchilarga qayta soting — dorixona faqat oz miqdorda komissiya oladi.",
+    "sell": "Sotuvga qo'yish",
+    "commission": "Dorixona komissiyasi",
+    "yourPayout": "Siz olasiz",
+    "buy": "Sotib olish",
+    "seller": "Sotuvchi",
+    "maxMarkup": "Maksimal ustama"
+  },
+  "footer": {
+    "rights": "Barcha huquqlar himoyalangan.",
+    "categories": "Kategoriyalar",
+    "company": "Kompaniya",
+    "contacts": "Aloqa"
+  },
+  "search": {
+    "placeholder": "Dori yoki alomat qidirish..."
+  },
+  "admin": {
+    "title": "Boshqaruv paneli",
+    "products": "Mahsulotlar",
+    "sales": "Sotuvlar",
+    "orders": "Buyurtmalar",
+    "resaleModeration": "Qayta sotishni moderatsiya qilish",
+    "addProduct": "Mahsulot qo'shish",
+    "approve": "Tasdiqlash",
+    "reject": "Rad etish"
+  },
+  "symptomChecker": {
+    "title": "Aqlli dori tanlash",
+    "subtitle": "Sizni nima bezovta qilayotganini belgilang — biz katalogdan mos retseptsiz dorilarni tanlaymiz. Bu tashxis emas va shifokor maslahatini almashtirmaydi.",
+    "select": "Alomatlarni tanlang",
+    "analyze": "Dorilarni tanlash",
+    "thinking": "Alomatlar tahlil qilinmoqda...",
+    "resultsTitle": "Sizga mos kelishi mumkin",
+    "disclaimer": "⚠️ Bu faqat ma’lumot uchun, tibbiy tashxis emas. Jiddiy yoki uzoq davom etadigan alomatlarda shifokorga murojaat qiling.",
+    "seeDoctor": "Bu alomatlar uchun retsept yoki shifokor maslahati kerak bo‘lishi mumkin — o‘zingizni davolamang.",
+    "reset": "Qaytadan boshlash"
+  }
+}
