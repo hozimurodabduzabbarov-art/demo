@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 async function connectDB() {
   try {
-    const uri = process.env.MONGO_URI ||  'mongodb+srv://hozimurodabduzabbarov_db_user:HAx1b8fzZmfl8FbQ@gw-60.vxnl5ji.mongodb.net/?appName=GW-60';
+    const uri = process.env.MONGO_URI || 'mongodb+srv://hozimurodabduzabbarov_db_user:fPZJdkDbeATURj11@gw-60.vxnl5ji.mongodb.net/?appName=GW-60';
     await mongoose.connect(uri);
     console.log(`[DB] MongoDB connected: ${uri}`);
   } catch (err) {
